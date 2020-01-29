@@ -5,3 +5,8 @@ title: main
 ---
 
 ## HELLO
+
+```javascript
+const thing = thing()
+```
+

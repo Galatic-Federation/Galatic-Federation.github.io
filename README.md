@@ -1,1 +1,5 @@
-# Galatic-Federation.github.io
+---
+layout: default
+title: miner
+---
+## the Miner

@@ -1,4 +1,12 @@
+@import "fonts";
+@import "rouge-github";
+
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
+}
+
+  pre, code {
+    word-wrap:normal;
+  }
 }
